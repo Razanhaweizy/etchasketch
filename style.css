@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex: auto;
+    margin: 1px;
+    padding: 20px;
+}
+
+.box {
+    width: 30px; 
+    height: 30px; 
+}
